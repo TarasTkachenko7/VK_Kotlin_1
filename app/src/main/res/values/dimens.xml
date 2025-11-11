@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_spacing_portrait">40dp</dimen>
+    <dimen name="top_spacing_horizontal">20dp</dimen>
+    <dimen name="between_grid_and_button">20dp</dimen>
+    <dimen name="item_padding">8dp</dimen>
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="button_corner">12dp</dimen>
+    <dimen name="font_large">24sp</dimen>
+    <dimen name="border_width">2dp</dimen>
+    <dimen name="lazy_padding">40dp</dimen>
+    <dimen name="add_padding">16dp</dimen>
+</resources>
